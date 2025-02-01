@@ -20,7 +20,7 @@ This project will teach you:
 
 ### Learning Structure
 
-Each topic is organized into separate folders, making it easy to follow and practice. Every section includes:
+Each topic is divided into separate folders, making it easy to follow and practice. Each section includes:
 
 - **Theoretical explanations** to understand the concepts.
 - **Short exercises** to reinforce learning.
@@ -28,8 +28,8 @@ Each topic is organized into separate folders, making it easy to follow and prac
 
 ### Who Is This For?
 
-- Beginners who have never coded before.
-- Developers looking to learn GO from scratch.
-- Anyone interested in building efficient and scalable applications with GO.
+- For new beginner level learners,
+- Programmers who want to learn GO from scratch.
+- For anyone interested in building efficient and scalable applications using GO.
 
 #### Start your GO programming journey today! 🚀
