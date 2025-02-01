@@ -33,4 +33,4 @@ Each topic is divided into separate folders, making it easy to follow and practi
 - Programmers who want to learn GO from scratch.
 - For anyone interested in building efficient and scalable applications using GO.
 
-#### [**Start your GO programming journey today!**](https://github.com/uzswe/golang) 🚀
+#### [**Start your GO programming journey today!**](https://github.com/uzswe/golang/blob/main/%231-intro/index.go) 🚀
